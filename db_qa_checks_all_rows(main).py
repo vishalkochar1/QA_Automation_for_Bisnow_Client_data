@@ -6,9 +6,9 @@ import xlsxwriter
 
 # Database connection parameters
 conn = psycopg2.connect(
-    database="Kapow",
-    user="kapow",
-    password="kapow123",
+    database="***",
+    user="***",
+    password="****",
     host="forage-dev-db.cod4levdfbtz.ap-south-1.rds.amazonaws.com",
     port="5432"
 )
